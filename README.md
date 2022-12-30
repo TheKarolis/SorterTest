@@ -16,7 +16,7 @@ For in order to generate requests Postman software could be used
 }
 Response contains sorted numbers.
 
-**Bubble**
+**Selection sort**
 1) Run project
 2) On Postman select post method
 3) Write into the uri: "https://localhost:****/SelectionSort", where **** is the port number shown when running     project web browser starts.
