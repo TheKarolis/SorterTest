@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "zW28UCxMKMo0W4mHS4POh4xrnKeZ8Xmn6jPu1fvC5buBC5l6miuCrINUV9lD3/XMG5ua+SIEUA9vkLPV2x9ZnA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev things\\Danske homework\\Sorter\\Sorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\7.0.1\\microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.1.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.1\\microsoft.entityframeworkcore.analyzers.7.0.1.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.1\\microsoft.entityframeworkcore.inmemory.7.0.1.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.1\\microsoft.entityframeworkcore.relational.7.0.1.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Karolis\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
